@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/StaticVsInstance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CommandLineArguments" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Varargs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
